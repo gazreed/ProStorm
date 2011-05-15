@@ -414,9 +414,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>751C053EB9A1E29DDCDAA10DD79A63B6</string>
+              <string>751c053eb9a1e29ddcdaa10dd79a63b6</string>
               <key>url</key>
-              <string>FLIN</string>
+              <string>https://github.com/simms/ProStorm/blob/master/Libs/flin.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -426,9 +426,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>D8E6D150EF2A9AA914A12051C75C0A22</string>
+              <string>d8e6d150ef2a9aa914a12051c75c0a22</string>
               <key>url</key>
-              <string>FWIN</string>
+              <string>https://github.com/simms/ProStorm/blob/master/Libs/fwin.tar.bz2</string>
             </map>
             <key>name</key>
             <string>windows</string>
@@ -930,9 +930,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>FBF8A4F78DFF986D7C16B3A0437E033E</string>
+              <string>fbf8a4f78dff986d7c16b3a0437e033e</string>
               <key>url</key>
-              <string>KLIN</string>
+              <string>https://github.com/simms/ProStorm/blob/master/Libs/klin.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -942,9 +942,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>6CD9F36465EF73A3DF34BF2B3BBA2CED</string>
+              <string>6cd9f36465ef73a3df34bf2b3bba2ced</string>
               <key>url</key>
-              <string>KWIN</string>
+              <string>https://github.com/simms/ProStorm/blob/master/Libs/kwin.tar.bz2</string>
             </map>
             <key>name</key>
             <string>windows</string>
