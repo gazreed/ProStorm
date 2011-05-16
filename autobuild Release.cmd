@@ -1,2 +1,2 @@
-autobuild configure -c Release
+autobuild configure -c Release -- -DLL_TESTS=OFF
 pause
